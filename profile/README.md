@@ -2,7 +2,7 @@
 
 Greetings form **ELedlow Studios**, an organization whose goal is to create open-source engines that promote unlimited creativity.
 
-If you have interest in becoming a part of [ELedlow Studios](https://github.com/ELedlow-Studios), we invite you to reach out to us. Please feel free to contact [Breakout-X on Github](https://github.com/Breakout-X/), or [ELedlow on Scratch](https://scratch.mit.edu/users/ELedlow/) for any questions or requests.
+If you have interest in becoming a part of [ELedlow Studios](https://github.com/ELedlow-Studios), we invite you to reach out to us. Please feel free to contact [Breakout-X](https://github.com/Breakout-X/), [ELedlow](https://scratch.mit.edu/users/ELedlow/), or [mario_TB](https://scratch.mit.edu/users/mario_TB/) for any questions or requests.
 
 We look forward to collaborating with you soon.
 
